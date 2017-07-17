@@ -2,6 +2,10 @@
 
 ### Introduction
 
+Architecture diagram
+
+![image](http://o9oomuync.bkt.clouddn.com/hcihciinf.png)
+
 Use Project Oxford api to <b>evaluate a user's emotion</b>, then <b>associate</b> a wallpaper with the specific emotional data, then change the windows theme color and its wallpaper. Develop an app to show the <b>history of emotion data</b> in one week and it can ask for doctor's advice if needed. In the Python class, based on the original project, adding content-based and user-based recommended algorithm. In the HCI class, according to the emotional identification, send the corresponding expression images.
 
 ### ChatKit
