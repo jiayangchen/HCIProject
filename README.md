@@ -1,4 +1,10 @@
-# ChatKit
+# HCI Project
+
+### Introduction
+
+Use Project Oxford api to <b>evaluate a user's emotion</b>, then <b>associate</b> a wallpaper with the specific emotional data, then change the windows theme color and its wallpaper. Develop an app to show the <b>history of emotion data</b> in one week and it can ask for doctor's advice if needed. In the Python class, based on the original project, adding content-based and user-based recommended algorithm. In the HCI class, according to the emotional identification, send the corresponding expression images.
+
+### ChatKit
 
 ChatKit 是由 LeanCloud 官方推出的、基于 [LeanCloud 实时通信 SDK「LeanMessage」](https://leancloud.cn/docs/leanstorage_guide-android.html) 开发并封装了简单 UI  的聊天套件。它可以帮助开发者快速掌握 LeanMessage 的技术细节，轻松扩展和实现常用的聊天功能。
 
